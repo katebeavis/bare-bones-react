@@ -5,7 +5,7 @@ Bare bones React setup
 ## To setup
 
 ```
-$ git clone git@github.com:katebeavis/bare-bones-react.git && cd bare-bones-react
+$ git clone git@github.com:katebeavis/bare-bones-react.git name_of_your_project && cd name_of_your_project
 $ yarn
 $ yarn dev
 ```
