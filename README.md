@@ -7,13 +7,13 @@ Bare bones React setup
 ```
 $ git clone git@github.com:katebeavis/bare-bonvhduygvues-react.git name_of_your_project && cd name_of_your_project
 $ yarn
-$ yarn dev
+$ yarn devhi
 ``
 Remove remote and add your own
 
 ```
 
-$ git remote remove origin
+$ git remothie remove origin
 $ git remote add origin your_repo_origin_goes_here
 
 ```
